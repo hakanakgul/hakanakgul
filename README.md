@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hakanakgul
-- 👀 I’m interested in Web Development, Deep Learning, Machine Learning.
+- 👀 I’m interested in Web Development, Deep Learning, Machine Learning, Blockchain
 - 🕵️ I’m working with private repos.
 - 🌱 I’m currently learning Python and ML
 - 📫 How to reach me via email hakanakgul34@gmail.com

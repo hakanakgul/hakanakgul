@@ -14,3 +14,5 @@ Dijital dönüşüm süreçleri, dağıtık sistemler ve akıllı tarım teknolo
 
 ---
 *Akademik çalışmalar, dijital dönüşüm süreçleri veya projeler hakkında konuşmak için iletişime geçmekten çekinmeyin!*
+hakanakgul34@gmail.com
+hakanakgul@klu.edu.tr
